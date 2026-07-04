@@ -92,9 +92,7 @@
 
 このファイルをGenspark/Claude等のAIチャットに読み込ませてから会話を始めると、会社情報・事業内容・進行中プロジェクトをゼロから説明しなくて済みます。
 
-**Gensparkでの使い方**:
-新規チャットで以下をコピペ → 以降は通常通り指示するだけ
-
+**Gensparkでの使い方（コピペ用）**:
 ```
 以下のURLのコンテキストを読んでから答えてください：
 https://raw.githubusercontent.com/Sho1keda/remium-context/main/context.md
